@@ -1,0 +1,11 @@
+name: BetterTpa
+version: '${project.version}'
+main: com.k1nz.bettertpa.BetterTpa
+api-version: '1.20'
+commands:
+  tpa:
+    description: Wysyla prosbe o teleportacje.
+  tpaccept:
+    description: Akceptuje prosbe o teleportacje.
+  tpadeny:
+    description: Odrzuca prosbe o teleportacje.
